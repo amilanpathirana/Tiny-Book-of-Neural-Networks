@@ -5,14 +5,16 @@
 </p>
 
 
-
+<div align="center">
 # Tiny Book of Neural Networks
-
+ 
+ </div>
+ 
+<div align="center">
 ### *By : Amila Pathirana*
-
-/pagebreak
-\pagebreak
-
+ 
+ </div>
+\newpage
 ___
 
 ##Introduction 
