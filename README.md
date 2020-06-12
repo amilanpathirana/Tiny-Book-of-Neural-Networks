@@ -6,7 +6,9 @@
 
 
 <div align="center">
+ <p>
 # Tiny Book of Neural Networks
+ </p>
  
 </div>
  
