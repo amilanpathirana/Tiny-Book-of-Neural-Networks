@@ -8,12 +8,13 @@
 <div align="center">
 # Tiny Book of Neural Networks
  
- </div>
+</div>
  
 <div align="center">
 ### *By : Amila Pathirana*
  
- </div>
+</div>
+
 \newpage
 ___
 
