@@ -26,14 +26,12 @@ Imagine you have set of iris photos. Each photo has a label. That label says whi
 After spending some time on it, you get good at identifying iris species by looking at their photos.  
 
 
-<figure>
-
 <p  align ="center">
 <img src=".\images\fig1.jpg"  width=200 height=350>
 </p>
 
 <figcaption> Fig. 1: Trainning the brain</figcaption>
-</figure>
+
 
  One day, one of your friends come along, give you a photo of iris, and ask you what it is. Since you are an expert on identifying iris photos, you have no problem identifying what iris species it belongs to. 
 
