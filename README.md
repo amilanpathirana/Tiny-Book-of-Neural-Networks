@@ -30,20 +30,17 @@ After spending some time on it, you get good at identifying iris species by look
 <img src=".\images\fig1.jpg"  width=200 height=350>
 </p>
 
-<figcaption> Fig. 1: Trainning the brain</figcaption>
+
 
 
  One day, one of your friends come along, give you a photo of iris, and ask you what it is. Since you are an expert on identifying iris photos, you have no problem identifying what iris species it belongs to. 
 
 
-<figure>
 
 <p  align ="center">
 <img src="images\fi2.jpg"  width=400 height=190>
 </p>
 
-<figcaption> Fig. 2: Testing the brain</figcaption>
-</figure>
 
 The way neural network solves the problem in the kind of way. In order to get something useful out of it, neural network needs to be trained, just like you trained to identify irises. After the training phase is over, when you see a photo of Setosa iris, you can say it is a photo of Setosa iris with confidence. You may not seen the exact image of a Setosa iris shown to you before. However, you trained your brain with other Setosa iris images in such a way that when you see certain features, you can say it is indeed a Setosa iris.  As you can see from the example, neural networks help us when there is no direct mathematical relationships between the input and output and you have lots and lots of labeled data. In this case, the input to the neural network was the pixel values of the photo. And the output was the label like “Setosa”,” Virginica”,”Versicolor”. Clearly, an analytical mathematical relationship between inputs and outputs is nearly an impossibility. Therefore, such problems are ideal problems to be solved using neural networks. 
 ___
