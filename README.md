@@ -11,7 +11,6 @@
 ### *By : Amila Pathirana*
  
 
-/newpage
 ___
 
 ##Introduction 
@@ -61,7 +60,7 @@ These three types of iris flowers have their own unique characteristics. Figure 
 <figure>
 
 <p  align ="center">
-<img src="images\fig3.jpg"  width=400 height=150>
+<img src="images\fig3.JPG"  width=400 height=150>
 </p>
 
 <figcaption> Fig. 3: Different species of iris in the garden</figcaption>
@@ -72,7 +71,7 @@ You received 150 iris flowers from the garden. Fifty from each species. Four fea
 <figure>
 
 <p  align ="center">
-<img src="images\fig4.jpg"  width=190 height=180>
+<img src="images\fig4.JPG"  width=190 height=180>
 </p>
 
 <figcaption> Fig. 4: Petal length, width and septal length, width </figcaption>
@@ -92,7 +91,7 @@ Apart from weight matrices, each node except the nodes in the input layer is con
  <figure>
 
 <p  align ="center">
-<img src="images\fig5.jpg"  width=400 height=180>
+<img src="images\fig5.JPG"  width=400 height=180>
 </p>
 
 <figcaption> Fig. 5: Structure of a simple neural network </figcaption>
