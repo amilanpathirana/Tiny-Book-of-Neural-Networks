@@ -29,7 +29,7 @@ After spending some time on it, you get good at identifying iris species by look
 <figure>
 
 <p  align ="center">
-<img src="images\fig1.jpg"  width=200 height=350>
+<img src=".\images\fig1.jpg"  width=200 height=350>
 </p>
 
 <figcaption> Fig. 1: Trainning the brain</figcaption>
