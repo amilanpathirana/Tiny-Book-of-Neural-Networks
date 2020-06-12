@@ -1,7 +1,7 @@
 
 
 <p  align ="center">
-<img src="images\frontcover.jpg"   width="100" height="200">
+<img src=".\images\frontcover.jpg"   width="100" height="200">
 </p>
 
 <p style="text-align: center;">Tiny Book of Neural Networks</p>
