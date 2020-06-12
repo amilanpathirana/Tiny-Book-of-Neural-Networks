@@ -100,7 +100,7 @@ Apart from weight matrices, each node except the nodes in the input layer is con
 ### Perceptron
 
 *Perceptron*”* sounds complex, but it is not. Single node of a layer (except input layer) is called perceptron. What it does is add all the inputs coming into the perceptron to obtain 𝑧, which is an internal variable of the perceptron. Then sent the summation through a function. This function is called activation function. Output of the function is the output of the perceptron. For this example, we will use the sigmoid activation function shown in Equation 1. 
-![\sigma(z)=\frac{1}{1-e^{-z}}]
+![\sigma(z)=\frac{1}{1-e^{-z}}](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
 
 When we take whole layer, internal variable z is a vector. In that case, activation function is applied to each element of the  z vector. 
 
