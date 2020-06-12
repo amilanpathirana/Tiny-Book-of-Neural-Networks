@@ -27,7 +27,7 @@ After spending some time on it, you get good at identifying iris species by look
 
 
 <p  align ="center">
-<img src=".\images\fig1.jpg"  width=200 height=350>
+<img src=".\images\Fig1.JPG"  width=200 height=350>
 </p>
 
 
@@ -38,7 +38,7 @@ After spending some time on it, you get good at identifying iris species by look
 
 
 <p  align ="center">
-<img src="images\fi2.jpg"  width=400 height=190>
+<img src="images\fi2.JPG"  width=400 height=190>
 </p>
 
 
