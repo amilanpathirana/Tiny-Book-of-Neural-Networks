@@ -107,7 +107,7 @@ When we take whole layer, internal variable z is a vector. In that case, activat
  <figure>
 
 <p  align ="center">
-<img src="images\fig6.jpg"  width=330 height=300>
+<img src="images\fig6.JPG"  width=330 height=300>
 </p>
 
 <figcaption> Fig. 6: Perceptron- Add all the inputs and apply activation function </figcaption>
