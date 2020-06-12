@@ -13,7 +13,7 @@
 
 ___
 
-##Introduction 
+## Introduction 
 ___
 
 
@@ -46,7 +46,7 @@ After spending some time on it, you get good at identifying iris species by look
 The way neural network solves the problem in the kind of way. In order to get something useful out of it, neural network needs to be trained, just like you trained to identify irises. After the training phase is over, when you see a photo of Setosa iris, you can say it is a photo of Setosa iris with confidence. You may not seen the exact image of a Setosa iris shown to you before. However, you trained your brain with other Setosa iris images in such a way that when you see certain features, you can say it is indeed a Setosa iris.  As you can see from the example, neural networks help us when there is no direct mathematical relationships between the input and output and you have lots and lots of labeled data. In this case, the input to the neural network was the pixel values of the photo. And the output was the label like “Setosa”,” Virginica”,”Versicolor”. Clearly, an analytical mathematical relationship between inputs and outputs is nearly an impossibility. Therefore, such problems are ideal problems to be solved using neural networks. 
 ___
 
-##Iris Garden
+## Iris Garden
 
 ___
 
@@ -97,7 +97,7 @@ Apart from weight matrices, each node except the nodes in the input layer is con
 <figcaption> Fig. 5: Structure of a simple neural network </figcaption>
 </figure>
 
-###Perceptron
+### Perceptron
 
 *Perceptron*”* sounds complex, but it is not. Single node of a layer (except input layer) is called perceptron. What it does is add all the inputs coming into the perceptron to obtain 𝑧, which is an internal variable of the perceptron. Then sent the summation through a function. This function is called activation function. Output of the function is the output of the perceptron. For this example, we will use the sigmoid activation function shown in Equation 1. 
 $$ \sigma(z)=\frac{1}{1-e^{-z}}-[1]$$ 
@@ -114,12 +114,12 @@ When we take whole layer, internal variable z is a vector. In that case, activat
 </figure>
 
 ___
-##Training the neural network
+## Training the neural network
 ___
 
 Neural network to be useful in solving the problem, it needs to be well trained. Finding the best possible values for weight and bias matrices is called training. What I meant by “best possible” is, error of the final decision is minimal. Let us start trainning our neural network! 
 
 
-###Forward propagation 
+### Forward propagation 
 Forward propagation is the first phase of the training process. Goal of the forward propagation step is to find the output 𝑦2, given the input vector x, two weight matrices and two bias matrices. At the beginning of the training process, we can initialize the weight matrices with random values. 
 When the neural network received an Input vector, it is multiplied by the weight matrix (𝑤1) and added the biases to obtain the internal variable of Layer 1 (𝑧1). 
