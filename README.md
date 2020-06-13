@@ -30,7 +30,7 @@ After spending some time on it, you get good at identifying iris species by look
 
 
 <p  align ="center">
-<img src=".\images\Fig1.JPG"  width=200 height=350>
+<img src=".\images\Fig1.JPG"  width=300 height=450>
 </p>
 
 
