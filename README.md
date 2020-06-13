@@ -118,6 +118,13 @@ a^2+b^2=c^2
 \end{equation}
 $$
 
+$$
+\begin{equation}
+    F = ma 
+    \label{eq: test}
+\end{equation}
+$$
+
 When we take whole layer, internal variable z is a vector. In that case, activation function is applied to each element of the  z vector. 
 
  <figure>
