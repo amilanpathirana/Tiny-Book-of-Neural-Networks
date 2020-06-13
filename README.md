@@ -3,14 +3,13 @@
 <p  align ="center">
 <img src=".\images\frontcover.jpg"   width="100" height="200">
 </p>
-
+___
 # Tiny Book of Neural Networks
 
  
 
 ### *By : Amila Pathirana*
- 
-
+___
 ___
 
 ## Introduction 
