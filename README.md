@@ -7,13 +7,14 @@ ___
 # Tiny Book of Neural Networks
 ___
  
-___
+
 ### *By : Amila Pathirana*
-___
 
 
 
-___
+
+
+
 
 ## Introduction 
 ___
