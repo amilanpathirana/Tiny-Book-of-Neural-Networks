@@ -91,7 +91,7 @@ ___
 
 ___
 
-We start with the simple neural network shown in Figure 5. In the neural network shown in Figure 5, Layer 0 is the input layer. This is where we input measured parameters. In our case, we have four parameters.   Input layer is connected to Layer 1 via set of weights($𝑤_1$).There are five nodes in layer-1. Nodes of Layer 1 is connected to nodes of Layer 2 via a another set of weights($𝑤_2$) , just like the previous layer. 
+We start with the simple neural network shown in Figure 5. In the neural network shown in Figure 5, Layer 0 is the input layer. This is where we input measured parameters. In our case, we have four parameters.   Input layer is connected to Layer 1 via set of weights(<img src="https://render.githubusercontent.com/render/math?math=w_1">).There are five nodes in layer-1. Nodes of Layer 1 is connected to nodes of Layer 2 via a another set of weights($𝑤_2$) , just like the previous layer. 
 Apart from weight matrices, each node except the nodes in the input layer is connected to a variable b, which is called bias.  Finally, the outputs from the last layer($y_2$) is the output of the neural network. These outputs of the neural network along with actual observations ($y_2$) is used to calculate the error ($𝐸$) of the neural network response. 
 
 
